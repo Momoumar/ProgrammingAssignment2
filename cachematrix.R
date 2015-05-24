@@ -1,5 +1,5 @@
-## This programm is composed by a pair of functions that cache the inverse of a matrix
 
+## This programm is composed by a pair of functions that cache the inverse of a matrix
 
 ## makeCacheMatrix: This function creates a special "matrix" object that can cache 
 ## its inverse.
